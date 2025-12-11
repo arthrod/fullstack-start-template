@@ -54,7 +54,7 @@
     "@modelcontextprotocol/sdk": "^1.17.3",
     "@neondatabase/serverless": "^1.0.1",
     "@neondatabase/vite-plugin-postgres": "^0.2.2",
-    "@openai/agents": "^0.0.14",
+    "@openai/agents": "^0.3.2",
     "@openai/agents-extensions": "^0.0.14",
     "@react-email/components": "0.4.0",
     "@sentry/node": "^10.5.0",
